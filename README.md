@@ -1,2 +1,0 @@
-# Garbage_Classification_using_Transfer_learning_code
-
